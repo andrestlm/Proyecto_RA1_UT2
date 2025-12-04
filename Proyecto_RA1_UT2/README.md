@@ -8,5 +8,5 @@ Estructura orientada a **retos** del RA1 (UT2). Flujo único por reto:
 
 Carpetas:
 - `retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots` → Reto 01 completo.
-- `retos/Reto_02_PorDefinir` → Reto 02 completo.
-- `retos/Reto_03_PorDefinir` → Reto 03 completo.
+- `retos/Reto_02_ram_y_cpu` → Reto 02 completo.
+- `retos/Reto_03_gpu_blackfriday` → Reto 03 completo.
