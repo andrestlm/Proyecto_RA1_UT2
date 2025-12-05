@@ -6,6 +6,7 @@
 - Alumno/a: _Andrés López_
 - Grupo: _ASIR1_
 - Fecha: _03/12/2025_
+
 ![Portada](../../assets/img/30-parte3/portada.png "Portada")
 
 ## 1) Introducción (5–10 líneas)
